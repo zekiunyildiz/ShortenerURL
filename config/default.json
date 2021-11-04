@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://zekiunyildiz:Sifre_36@cluster0.0zqca.mongodb.net/ShortenerURL?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
